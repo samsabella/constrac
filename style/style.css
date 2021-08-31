@@ -153,6 +153,7 @@
     background: aliceblue;
 }
 .us-title {
+    width: 20%;
     font-weight: bold;
     font-size: 40px;
     line-height: 57px;
